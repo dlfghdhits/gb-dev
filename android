@@ -1,0 +1,13 @@
+{
+   "code":1,
+   "message":"SUCCESS",
+   "data":[
+       {
+         "id":1,
+         "domain":"https://dev-api.gbetgame.cc",
+         "webDomain":"https://dev-h5.gbetgame.cc",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      }]
+}
